@@ -1,0 +1,10 @@
+<div style="width:95%;text-align:left; margin-left:auto;margin-right:auto">
+<h3><center>Message from KIO</center></h3>
+<p>The NIT Sikkim's Library designated as Knowledge and Information Center (KIC), located at the center of NIT Sikkim's beautiful campus, established in 2012 as Knowledge and Information Center, providing access to scholarly information, research support, computing and study facilities. It aims to offer effective services to its users to fulfill their learning needs through its user friendly & state of the art facilities. Keeping in view of the needs of current and upcoming user, we are maintaining a Standard documentation and cataloguing system. We have electronic resources with full text as well as bibliographical databases, e-books, videos and Kindle e-book reader.  In KIC and through our extensive Web sites, you'll find important services and resources to help you to meet your academic and research goals.
+Our ultimate goal is to create KIC services that are convenient and efficient for  our students and academic staff, enhance institute pedagogy and learning programs and enable research and scholarship, in both traditional and e-forms. Our student will run to use KIC for their education, knowledge and to build future connecting society. Academic staff will think firstly about KIC for their better pedagogy and management may use to focus our institute future goal and KIC will be as driving role for our future educational system. Our staff will try to think beyond our KIC but will back again to learn something which they could not do beyond KIC. We believe and working with a focus as <br>
+ "Give a man a fish, he'll eat for a day; teach him how to fish, and he'll eat for a lifetime" -by Anne Isabella Ritchie.<br>
+Thanks to web development team to develop our KIC's website. Wish you all the best.<br><br> 
+Swapan Manna<br>
+Knowledge and Information Officer<br>
+</p>		  
+</div>

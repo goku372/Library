@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+#imageBox
+{
+	width: auto;
+	height: auto;
+	position:relative;
+	padding:10px;
+	box-shadow: 0 0 10px #3b1836;
+	margin-top:12px;
+	display:inline-block;
+	z-index:1;}
+	#container
+	{
+		width: 880px;
+		height: 430px;
+		background-color: #C96;
+		position:relative;
+		z-index:1;}
+		.image
+		{
+		position:absolute;
+		left: 0px;
+		top: 0px;
+		z-index: 1;
+		}
+
